@@ -19,5 +19,5 @@ This project consists of a simple link tree made in React with Vite, using styli
 1. **Clone the repository**:
 
  ```bash
- git clone https://github.com/cesar-daniel15/link-tree.git
- cd link-tree
+ git clone https://github.com/cesar-daniel15/clone-linktree.git
+ cd clone-linktree
